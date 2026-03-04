@@ -1,6 +1,6 @@
 ---
 author: Louk
-pubDatetime: 2026-03-05
+pubDatetime: 2026-03-04T12:00:00Z
 title: 포스팅 테스트
 slug: 포스팅 테스트
 featured: false
