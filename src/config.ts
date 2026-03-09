@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://louk342.vercel.app/", // replace this with your deployed domain
   author: "Louk",
   profile: "https://github.com/Louk342",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Louk from Republic of Korea",
   title: "Louk Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
